@@ -12,7 +12,12 @@ lang: en-US
 title: "Harith Arsyad"
 
 # A description of your site for meta tag, search engine results.
-description: "FILL THIS IN~"
+description: "I am an Electrical Engineering student at Iowa State
+University, with a particular interest in power systems and VLSI design.
+After completing my undergraduate degree, I plan on working in the industry
+and applying everything I've learned in these past few years. I'm looking
+forward to learning more from people who have been in this field for a long
+time and seeing how this industry evolves over the years."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
