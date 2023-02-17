@@ -46,7 +46,7 @@ accent_color: '#ffffff'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: ""
   has_social: true
 
 # Plugins

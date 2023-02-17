@@ -4,6 +4,7 @@ title: "High Speed Magnetic Field Pulsar"
 description: "Fast, Compact, High Strength Magnetic Field Pulse Generator"
 date: 2022-01-05
 feature_image: images/Design_evolution.jpg
+final_report: files/Final_Report.pdf
 tags: [tips, work]
 ---
 
