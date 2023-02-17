@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.0.0"
 
 group :jekyll_plugins do
+  gem 'wdm', '>= 0.1.0' if Gem.win_platform?
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
 end
-
