@@ -3,7 +3,7 @@ layout: post
 title: "Graphic Designer On The Road"
 description: "High Speed Magnetic Field Pulsar"
 date: 2022-01-05
-feature_image: images\Design_evolution.jpg
+feature_image: images/Design_evolution.jpg
 tags: [tips, work]
 ---
 
