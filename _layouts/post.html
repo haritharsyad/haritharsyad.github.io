@@ -18,9 +18,10 @@ layout: default
       {{content}}
     </div><!-- .post-content -->
     <div class="post-share">
-      <span></span>
+      <center>
       <a target="_blank"
         href="{{ page.final_report | relative_url }}">Report</a>
+        </center>
     </div><!-- .share-post -->
     <!--
     <div class="author-box">
@@ -40,9 +41,5 @@ layout: default
     </div><!-- .author-box -->
     -->
   </article><!-- .post -->
-
-  {% if site.disqus and site.disqus != "" %}
-    {% include disqus.html %}
-  {% endif %}
 
 </main><!-- .main-content -->
