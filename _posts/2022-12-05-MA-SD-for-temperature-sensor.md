@@ -4,7 +4,7 @@ title: "Moving Average and Standard Deviation for Temperature Sensor"
 description: "My team design and synthesize an IC layout for calculating moving average and standard deviation for a temperature sensor"
 date: 2022-12-05
 feature_image: images/TempSensor.png
-final_report: files/Final_Report.pdf
+final_report: files/CPRE-465-FINAL-PROJECT.pdf
 tags: [tips, work]
 ---
 
