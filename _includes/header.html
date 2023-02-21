@@ -27,6 +27,8 @@
 
 {% if site.description and site.description != "" and page.url == "/" %}
 <div class="site-description fadeInDown delay_05s">
+  <p>{{ site.description_header }}</p>
+  <br>
   <p>{{ site.description }}</p>
 </div><!-- .site-description -->
 {% endif %}
