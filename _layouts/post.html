@@ -17,11 +17,13 @@ layout: default
     <div class="post-content">
       {{content}}
     </div><!-- .post-content -->
+    {% if post.final_report != "" %}
     <div class="post-share">
       <center>
       <a target="_blank"
         href="{{ page.final_report | relative_url }}">Report</a>
         </center>
+    {% endif %}
   </article><!-- .post -->
 
 </main><!-- .main-content -->
