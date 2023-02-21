@@ -15,7 +15,7 @@ title: "Harith Arsyad"
 description_header: "Hello! &#128075"
 description: "I am a recent electrical engineering graduate focused in digital electronics, semiconductor devices,
 and power systems. I am a fast learner able to adapt to new concepts and software quickly. In my free time, I love
-building random contraptions with arduino and esp32 as well as playing my guitar"
+building random contraptions with Arduino and ESP32 as well as playing my guitar"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
