@@ -17,7 +17,7 @@ layout: default
     <div class="post-content">
       {{content}}
     </div><!-- .post-content -->
-    {% if post.final_report != 'none' %}
+    {% if page.final_report and page.final_report != "none" %}
     <div class="post-share">
       <center>
       <a target="_blank"
