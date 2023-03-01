@@ -3,7 +3,7 @@ layout: post
 title: "Autonomous Self Driving Roomba"
 description: "My group of 6 work on a self driving roomba with multiple sensors"
 date: 2021-01-01
-feature_image: images/Roomba-Project.png
+feature_image: images/Roomba-Project.jpeg
 final_report: none
 tags: [tips, work]
 ---
