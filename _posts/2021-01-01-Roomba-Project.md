@@ -11,7 +11,7 @@ In this project, I worked in a team of six in order to program a Roomba that can
 
 <!--more-->
 
-{% imageurl="/images/Roomba-Project.jpeg" %}
+{% include image_caption.html imageurl="/images/Roomba-Project.jpeg" title="Autonomous Roomba" caption="" %}
 
 ## Responsibility
 
